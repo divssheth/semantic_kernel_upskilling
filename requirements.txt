@@ -1,2 +1,4 @@
 semantic-kernel
 python-dotenv
+azure-search-documents
+semantic-kernel[azure]
