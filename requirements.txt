@@ -3,3 +3,6 @@ python-dotenv
 azure-search-documents
 semantic-kernel[azure]
 azure-ai-projects==1.0.0b8
+pyodbc
+aioodbc
+pandas

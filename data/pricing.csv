@@ -1,0 +1,37 @@
+﻿id,category,product_name,variant,features,price_usd
+T001,camping_tents,all_weather_tent,2_person,"waterproof, wind_uv_resistant",150
+T002,camping_tents,all_weather_tent,4_person,"waterproof, wind_uv_resistant",220
+T003,camping_tents,all_weather_tent,6_person,"waterproof, wind_uv_resistant",280
+T004,camping_tents,ultralight_backpacking_tent,1_person,"lightweight, quick_setup, ripstop_fabric",180
+T005,camping_tents,ultralight_backpacking_tent,2_person,"lightweight, quick_setup, ripstop_fabric",195
+T006,camping_tents,family_cabin_tent,10_person,"spacious, led_lighting, water_resistant",420
+B001,hiking_boots,waterproof_hiking_boots,mens_us6,"goretex, high_traction, padded_support",120
+B002,hiking_boots,waterproof_hiking_boots,mens_us9,"goretex, high_traction, padded_support",120
+B003,hiking_boots,waterproof_hiking_boots,womens_us8,"goretex, high_traction, padded_support",120
+B004,hiking_boots,waterproof_hiking_boots,unisex_us11,"goretex, high_traction, padded_support",120
+B005,hiking_boots,lightweight_trail_shoes,mens_us5_blue,"breathable_mesh, shock_absorption",88
+B006,hiking_boots,lightweight_trail_shoes,womens_us8_pink,"breathable_mesh, shock_absorption",88
+B007,hiking_boots,lightweight_trail_shoes,mens_us11_grey,"breathable_mesh, shock_absorption",88
+B008,hiking_boots,mountaineering_boots,mens_us7,"insulated, crampon_compatible, reinforced",210
+B009,hiking_boots,mountaineering_boots,womens_us9,"insulated, crampon_compatible, reinforced",210
+B010,hiking_boots,mountaineering_boots,mens_us12,"insulated, crampon_compatible, reinforced",210
+P001,backpacks,expedition_backpack,70l_navy_blue,"ergonomic, hydration_compatible",160
+P002,backpacks,daypack,30l_black,"padded_comfort, rain_cover",54
+P003,backpacks,daypack,30l_green,"padded_comfort, rain_cover",54
+P004,backpacks,tactical_backpack,40l_camo,"molle, military_grade, durable",98
+A001,outdoor_apparel,insulated_jacket,xs_black,"waterproof, windproof, insulated",130
+A002,outdoor_apparel,insulated_jacket,xl_blue,"waterproof, windproof, insulated",130
+A003,outdoor_apparel,quick_dry_pants,s_gray,"lightweight, moisture_wicking, convertible, uv_protect",65
+A004,outdoor_apparel,quick_dry_pants,xxl_tan,"lightweight, moisture_wicking, convertible, uv_protect",65
+A005,outdoor_apparel,thermal_base_layers,men_l_black,"thermal, antimicrobial, breathable",38
+A006,outdoor_apparel,thermal_base_layers,women_s_blue,"thermal, antimicrobial, breathable",38
+A007,outdoor_apparel,thermal_base_layers,kids_m_red,"thermal, antimicrobial, breathable",38
+AC001,accessories,multi_tool_kit,standard,"stainless_steel, knife, pliers, screwdrivers, scissors",35
+AC002,accessories,camping_stove,standard,"foldable, piezo_ignition, wind_shield",49
+AC003,accessories,sleeping_bag,mummy_0c,"water_repel, compression, for_0c_temperature",62
+AC004,accessories,sleeping_bag,mummy_minus10c,"water_repel, compression, for_minus10c_temperature",75
+AC005,accessories,sleeping_bag,rectangular_minus20c,"water_repel, compression, for_minus20c_temperature",98
+OT001,outdoor_tech,gps_navigation_device,standard,"preloaded_maps, gps_glonass, 20hr_battery",240
+OT002,outdoor_tech,solar_charger,21w,"foldable, water_dust_resist, fast_charge",69
+OT003,outdoor_tech,solar_charger,28w,"foldable, water_dust_resist, fast_charge",89
+OT004,outdoor_tech,action_camera,standard,"waterproof, shockproof, 4k_wifi, mounts_included",165
